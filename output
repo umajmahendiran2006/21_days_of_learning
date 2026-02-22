@@ -1,0 +1,21 @@
+#factorial
+enter a number5
+120
+#sqrt
+enter a number9
+3.0
+#mean
+enter a numbers by giving tab space10 20 30 40 50
+30
+#median
+enter a numbers by giving tab space10 20 30 40 50
+30
+#mode
+enter a numbers by giving tab space10 20 30 40 50
+10
+#trigonometry
+enter a angle in degree: 45
+0.7071067811865476
+#palindrome
+enter the number121
+palindrome number

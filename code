@@ -1,0 +1,44 @@
+ #factorial
+import math 
+n=int(input('enter a number'));
+a=math.factorial(n)
+print(a)
+
+#sqrt
+import math 
+n=int(input('enter a number'));
+a=math.sqrt(n)
+print(a)
+
+#mean,median,mode
+import statistics
+n=list(map(int,input('enter a numbers by giving tab space').split()));
+a=statistics.mean(n)
+print(a)
+
+#median
+import statistics
+n=list(map(int,input('enter a numbers by giving tab space').split()));
+a=statistics.median(n)
+print(a)
+
+#mode
+import statistics
+n=list(map(int,input('enter a numbers by giving tab space').split()));
+a=statistics.mode(n)
+print(a)
+
+#trigonometry
+import math
+n=float(input('enter a angle in degree: '));
+radians=math.radians(n)
+a=math.cos(radians)
+print(a)
+
+#palindrome
+n=input('enter the number');
+a=n[::-1]
+if a==n:
+	print("palindrome number")
+else:
+	print("not a palindrome number")	
