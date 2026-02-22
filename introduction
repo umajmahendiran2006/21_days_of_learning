@@ -1,2 +1,13 @@
+DAY-5
 
+today i have learned some built in  and library functions.
+built-in funtions:
+    which makes code easier ,like we can use this which was already predefined.
+    example:input()->to get input from user,len()->to find lenghth,min->to find the small number...
+library:
+    it is also prefined but to initialize this we have to import it .
+    example:math->to find sqrt of a number,factorial,trigonometry funtion like sin,cos,tan,cmath to find complex number....
+and finally end with by checking palindrome or not
         
+        
+
