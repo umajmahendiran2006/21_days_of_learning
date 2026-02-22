@@ -1,4 +1,6 @@
- #factorial
+DAY-5
+
+#factorial
 import math 
 n=int(input('enter a number'));
 a=math.factorial(n)
@@ -42,4 +44,5 @@ if a==n:
 	print("palindrome number")
 else:
 	print("not a palindrome number")	
+
 
